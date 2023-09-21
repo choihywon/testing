@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031587589366",
+    "project_id": "fir-login-52b1e",
+    "storage_bucket": "fir-login-52b1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031587589366:android:2a1e8c6593da0c0b3e50d7",
+        "android_client_info": {
+          "package_name": "com.example.login_copyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031587589366-kc46m4b8ldepoitobmlcrdf4m3vfv62i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoRXmiVRGuPchmb74mrtdwWhDAbwnOl8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031587589366-kc46m4b8ldepoitobmlcrdf4m3vfv62i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
