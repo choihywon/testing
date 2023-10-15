@@ -31,7 +31,7 @@ class _HomePageState extends State<HomePage> {
       // 'switch' 변수에 1을 업데이트
       await _realtimeDatabase.child('switch').set(1);
     } catch (error) {
-      print('Firebase 업데이트 중 오류 발생: $error');
+      print('Firebase 업데이트 중 오류 발생: $error'); //catch를 하면 firebase 느리게 받아오는 오류 발생 수정필요
     }
 
     } else if (isOn == false) {
