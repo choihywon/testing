@@ -68,7 +68,8 @@ class AuthService extends ChangeNotifier {
     } on FirebaseAuthException catch (e) {
       // firebase auth 에러 발생
       onError(e.message!);
-    } catch (e) {
+    } catch (e) 
+    {
       // Firebase auth 이외의 에러 발생
       onError(e.toString());
     }
