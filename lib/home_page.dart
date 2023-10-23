@@ -42,7 +42,7 @@ class _HomePageState extends State<HomePage> {
       // 'switch' 변수에 1을 업데이트
       await _realtimeDatabase.child('switch').set(0);
       } catch (error) {
-        print('Firebase 업데이트 중 오류 발생: $error');
+        print('Firebase 업데이트 중 오류 : $error');
       }
     }
 
