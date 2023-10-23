@@ -212,7 +212,7 @@ class _HomePageState extends State<HomePage> {
 //           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
 //           children: <Widget>[
 //             Text(
-//               '10초만 가만히 있어보쇼',
+//               '10초',
 //               style: Theme.of(context).textTheme.titleLarge,
 //             ),
 //             CircularProgressIndicator(
