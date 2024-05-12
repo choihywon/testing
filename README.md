@@ -23,3 +23,8 @@ samples, guidance on mobile development, and a full API reference.
 - Firebase에서 Spring Boot로 새로 구축
 - 판단 알고리즘 다시 작성
 
+### 2024.5.13
+-  기간: 2024.4.20 ~ 2024.05.12
+-  오라클, spring 연결
+-  로그인 구현 중
+-  데이터베이스 구축
