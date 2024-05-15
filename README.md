@@ -28,3 +28,6 @@ samples, guidance on mobile development, and a full API reference.
 -  오라클, spring 연결
 -  로그인 구현 중
 -  데이터베이스 구축
+### 2024.5.15
+- 새로운프로젝트 생성 
+- maven 추가
