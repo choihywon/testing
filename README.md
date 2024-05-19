@@ -31,3 +31,7 @@ samples, guidance on mobile development, and a full API reference.
 ### 2024.5.15
 - 새로운프로젝트 생성 
 - maven 추가
+- ### 2024.5.18
+- 로그인, 데이터베이스 연결
+- ### 2024.5.19
+- 회원가입, 데이터베이스 연결
