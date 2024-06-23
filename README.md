@@ -35,3 +35,5 @@ samples, guidance on mobile development, and a full API reference.
 - 로그인, 데이터베이스 연결
 ### 2024.5.19
 - 회원가입, 데이터베이스 연결
+### 2024.6.22
+- 레포트 페이지 연결 및 수정
