@@ -1,20 +1,3 @@
-# login_copyy
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-## 2024.05.01
 **1. Firebase -> Spring Boot로 다시 구축**
 2. OpenCV를 사용한 거북목 판단 구현
 3. Frontend React로 구현
@@ -37,3 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 - 회원가입, 데이터베이스 연결
 ### 2024.6.22
 - 레포트 페이지 연결 및 수정
+
